@@ -8,3 +8,4 @@ Skills:
 4. dbContext/EF
 5. Migrations
 6. Layouts
+7. Authorization
